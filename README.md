@@ -5,7 +5,9 @@ To begin, follow these steps:
 Download the "Satellite.ex" module and save it in your local directory.
 Open an IEX shell in the same directory.
 Compile the module by executing the command c("Satellite.ex").
+
 Usage
+
 To obtain the binary tree for a given preorder and inorder traversal, use the following function:
 
 Satellite.build_tree(preorder, inorder)
